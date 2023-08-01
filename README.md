@@ -1,1 +1,1 @@
-# projetos_python
+# Repositório destinado para projetos desenvolvidos em Python
